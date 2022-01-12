@@ -1,0 +1,6 @@
+py7zr
+pandas>=1.3.0
+numpy
+fastparquet
+pyarrow
+chardet
